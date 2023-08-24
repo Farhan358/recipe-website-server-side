@@ -1,0 +1,201 @@
+[
+  {
+    "id": "1",
+    "chef_name": "Satoshi Yamamoto",
+    "bio": "Satoshi Yamamoto is a highly skilled sushi chef with over 15 years of experience in traditional Japanese cuisine.",
+    "banner_image": "https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-gourmet-japanese-cuisine-top-view-wood-grain-banner-image_167243.jpg",
+    "profile_image": "https://t4.ftcdn.net/jpg/01/04/62/57/240_F_104625791_yfregt4V28SpGbECiosfuPC0laDqDTy2.jpg",
+    "recipe": [
+      {
+        "japanese_food_name": "Tempura",
+        "image":"https://www.thespruceeats.com/thmb/CkzlxmRyeK8IUrMrHrbq73RX4g4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basic-tempura-for-fish-and-seafood-1300531-hero-01-bbd91b4ee23940749fec5ab7693eadcc.jpg",
+        "ingredients": ["Shrimp","Sweet Potato","Broccoli","Onion","Carrot"],
+        "cooking_method": "1. Mix flour, egg, and ice water. \n2. Dip ingredients in batter and fry in hot oil. \n3. Serve with dipping sauce.",
+        "food_rating": 4.8
+      },
+      {
+        "japanese_food_name": "Sushi",
+        "image":"https://hips.hearstapps.com/hmg-prod/images/spicy-crab-rolls4-1654808938.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=1200:*",
+        "ingredients": [
+          "Sushi Rice",
+          "Nori",
+          "Tuna",
+          "Salmon",
+          "Cucumber"
+        ],
+        "cooking_method": "1. Cook rice and season with vinegar. \n2. Cut fish and vegetables into thin slices. \n3. Roll rice and ingredients in nori. \n4. Slice and serve.",
+        "food_rating": 4.5
+      },
+      {
+        "japanese_food_name": "Ramen",
+        "image":"https://thecozycook.com/wp-content/uploads/2023/02/Homemade-Ramen-f.jpg",
+        "ingredients": ["Ramen Noodles","Pork Belly","Egg","Bean Sprouts","Green Onion"],
+        "cooking_method": "1. Cook noodles and prepare broth. \n2. Add toppings like sliced pork, soft-boiled egg, bean sprouts, and green onion. \n3. Serve hot.",
+        "food_rating": 4.7
+      }
+    ],
+    "experience": 15,
+    "chef_rating": 4.8
+  },
+  {
+    "id": "2",
+    "chef_name": "Makoto Nakamura",
+    "bio": "Makoto Nakamura is a master of tempura, with a passion for using the freshest ingredients and innovative techniques to create dishes that are both beautiful and delicious.",
+    "banner_image": "https://media.istockphoto.com/id/487660102/photo/japanese-food-pork-tonkatsu.jpg?s=612x612&w=0&k=20&c=3pOEnMYuDg04yaMc2rcP2EhfPpoZ9TIWjexAq4-ZdSg=",
+    "profile_image": "https://t4.ftcdn.net/jpg/00/58/54/99/240_F_58549942_TKqJe0wHoUUzrirFduJ21RPZIciQLT9f.jpg",
+    "recipe": [
+      {
+        "japanese_food_name": "Tonkatsu",
+        "image":"https://www.kitchensanctuary.com/wp-content/uploads/2015/10/katsudon-Pork-square-FS.jpg",
+        "ingredients": ["Pork Loin","Flour","Egg","Panko Bread Crumbs","Cabbage"],
+        "cooking_method": "1. Season pork and coat in flour, egg, and panko. \n2. Fry in hot oil until golden brown. \n3. Serve with shredded cabbage and tonkatsu sauce.",
+        "food_rating": 4.3
+      },
+      {
+        "japanese_food_name": "Udon",
+        "image":"https://images.kitchenstories.io/wagtailOriginalImages/R2788-photo-final-2.jpg",
+        "ingredients": ["Udon Noodles","Dashi","Soy Sauce","Mirin","Shiitake Mushroom"],
+        "cooking_method": "1. Cook noodles and prepare broth. \n2. Add toppings like sliced mushroom, green onion, and tempura flakes. \n3. Serve hot.",
+        "food_rating": 4.9
+      },
+      {
+        "japanese_food_name": "Okonomiyaki",
+        "image":"https://www.justonecookbook.com/wp-content/uploads/2020/03/Okonomiyaki-Recipe-5674-I.jpg",
+        "ingredients": ["Cabbage","Flour","Egg","Pork Belly","Mayonnaise"],
+        "cooking_method": "1. Mix cabbage, flour, egg, and water. \n2. Add sliced pork and cook on griddle. \n3. Top with mayonnaise, okonomiyaki sauce, and green onion. \n4. Serve hot.",
+        "food_rating": 4.6
+      }
+    ],
+    "experience": 12,
+    "chef_rating": 4.5
+  },
+  {
+    "id": "3",
+    "chef_name": "Yuko Takahashi",
+    "bio": "Yuko Takahashi is a skilled udon chef who has spent years perfecting her craft and experimenting with new flavors and ingredients to create dishes that are both traditional and modern.",
+    "banner_image": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-sukiyaki/Sukiyaki-hot-pot?$poi$&w=700&h=410&sm=c&fmt=auto",
+    "profile_image": "https://t3.ftcdn.net/jpg/03/04/75/66/240_F_304756617_MKsgFzLQPC5Tc3RppjBcHF349jjsmTmz.jpg",
+    "recipe": [
+      {
+        "japanese_food_name": "Tempura",
+        "image":"https://www.thespruceeats.com/thmb/CkzlxmRyeK8IUrMrHrbq73RX4g4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basic-tempura-for-fish-and-seafood-1300531-hero-01-bbd91b4ee23940749fec5ab7693eadcc.jpg",
+        "ingredients": ["Shrimp","Carrots", "Sweet potato","Eggplant","Flour","Egg","Water","Oil"],
+        "cooking_method": "Deep-fry the ingredients after dipping them in a batter made of flour, egg, and water.",
+        "food_rating": 4.5
+      },
+      {
+        "japanese_food_name": "Sukiyaki",
+        "image":"https://www.justonecookbook.com/wp-content/uploads/2023/01/Sukiyaki-4752-I.jpg",
+        "ingredients": ["Thinly sliced beef","Tofu","Shirataki noodles","Sake","Soy sauce","Sugar","Green onions","Shiitake mushrooms","Napa cabbage"],
+        "cooking_method": "Cook the beef, tofu, and vegetables in a pot with sake, soy sauce, and sugar, and serve with a raw egg.",
+        "food_rating": 4.7
+      },
+      {
+        "japanese_food_name": "Miso Soup",
+        "image":"https://thehealthyepicurean.com/wp-content/uploads/2022/03/Spicy-Miso-Soup-with-Ramen-1-scaled.jpg",
+        "ingredients": ["Dashi stock","Miso paste","Tofu","Wakame seaweed","Green onions"],
+        "cooking_method": "Mix the miso paste with dashi stock, add tofu, wakame seaweed, and green onions, and heat until the ingredients are cooked through.",
+        "food_rating": 4.2
+      }
+    ],
+    "experience": 10,
+    "chef_rating": 4.7
+  },
+  {
+    "id": "4",
+    "chef_name": "Kenji Nakamura",
+    "bio": "Kenji Nakamura is a renowned chef specializing in okonomiyaki, a savory Japanese pancake made with a variety of ingredients such as cabbage, meat, seafood, and noodles.",
+    "banner_image": "https://www.shutterstock.com/image-photo/miso-ramen-asian-noodles-egg-260nw-1335463505.jpg",
+    "profile_image": "https://t3.ftcdn.net/jpg/00/93/51/60/240_F_93516061_4cuFh32pHlnjWP0mp3auyQ1KfXvBa4JU.jpg",
+    "recipe":[
+      {
+        "japanese_food_name": "Shoyu Ramen",
+        "image":"https://pickledplum.com/wp-content/uploads/2018/02/shoyu-ramen-1-1200.jpg",
+        "ingredients": ["ramen noodles", "chicken broth", "soy sauce", "mirin", "pork belly", "soft boiled egg", "bamboo shoots", "green onions"],
+        "cooking_method": "1. Boil the ramen noodles according to package instructions.\n2. In a separate pot, heat chicken broth, soy sauce, and mirin.\n3. Add slices of cooked pork belly to the broth.\n4. Arrange the cooked noodles in a bowl and pour the hot broth over them.\n5. Top with a soft boiled egg, sliced bamboo shoots, and chopped green onions.",
+        "food_rating": 4.5
+      },
+      {
+        "japanese_food_name": "Miso Ramen",
+        "image":"https://dishingouthealth.com/wp-content/uploads/2022/01/SpicyMisoRamen_Square.jpg",
+        "ingredients": ["ramen noodles", "chicken broth", "miso paste", "pork shoulder", "corn", "seaweed", "green onions"],
+        "cooking_method": "1. Boil the ramen noodles according to package instructions.\n2. In a separate pot, heat chicken broth and miso paste until dissolved.\n3. Add slices of cooked pork shoulder to the broth.\n4. Add cooked corn and seaweed to the broth.\n5. Arrange the cooked noodles in a bowl and pour the hot broth over them.\n6. Top with chopped green onions.",
+        "food_rating": 4.6
+      },
+      {
+        "japanese_food_name": "Tonkotsu Ramen",
+        "image":"https://www.foodandwine.com/thmb/0AXGLeY6dYnY8sEXFqxBa8opDrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Tonkotsu-Ramen-FT-BLOG1122-8fe6c12d609a4fd4ab246bea3aae140e.jpg",
+        "ingredients": ["ramen noodles", "pork broth", "pork belly", "black garlic oil", "soft boiled egg", "kikurage mushrooms", "green onions"],
+        "cooking_method": "1. Boil the ramen noodles according to package instructions.\n2. In a separate pot, heat pork broth until hot.\n3. Add slices of cooked pork belly to the broth.\n4. Add black garlic oil to the broth.\n5. Arrange the cooked noodles in a bowl and pour the hot broth over them.\n6. Top with a soft boiled egg, sliced kikurage mushrooms, and chopped green onions.",
+        "food_rating": 4.8
+      }
+    ],
+    "experience": 14,
+    "chef_rating": 4.3
+  },
+  {
+    "id": "5",
+    "chef_name": "Hiroshi Sato",
+    "bio": "Hiroshi Sato is a skilled ramen chef who has spent years perfecting his broth and noodle-making techniques to create a rich, flavorful bowl of ramen.",
+    "banner_image": "https://www.thespruceeats.com/thmb/HXxhmNHTFqscKvh_jpTbDEEnD8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/omelet-rice-2031329-hero-01-a7e0906fd73b49739f28717d01e6cc33.jpg",
+    "profile_image": "https://t4.ftcdn.net/jpg/05/09/36/03/240_F_509360334_CXOOagGa8tPvndQJfc5CqG71hCI3ZCrU.jpg",
+  "recipe":[
+    {
+      "japanese_food_name": "Gyudon",
+      "image":"https://thedomesticatedman.files.wordpress.com/2016/09/img_9926.jpg",
+      "ingredients": ["steamed rice", "beef", "onion", "dashi", "soy sauce", "sake", "mirin", "sugar", "green onions"],
+      "cooking_method": "1. Cut the beef into small pieces and slice the onion.\n2. In a frying pan, cook the beef and onion until browned.\n3. Add dashi, soy sauce, sake, mirin, and sugar to the pan.\n4. Simmer for a few minutes until the liquid has reduced.\n5. Serve the beef and sauce over steamed rice and top with chopped green onions.",
+      "food_rating": 4.7
+    },
+    {
+      "japanese_food_name": "Omurice",
+      "image":"https://www.thespruceeats.com/thmb/HXxhmNHTFqscKvh_jpTbDEEnD8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/omelet-rice-2031329-hero-01-a7e0906fd73b49739f28717d01e6cc33.jpg",
+      "ingredients": ["cooked rice", "chicken", "onion", "ketchup", "butter", "eggs", "milk", "salt", "pepper"],
+      "cooking_method": "1. Cut the chicken into small pieces and slice the onion.\n2. In a frying pan, cook the chicken and onion until browned.\n3. Add ketchup to the pan and mix with the chicken and onion.\n4. In a separate pan, melt butter and scramble eggs with milk, salt, and pepper.\n5. Place the cooked rice on a plate and top with the chicken and onion mixture.\n6. Put the scrambled eggs on top of the chicken and onion mixture and fold the omelet over the rice.",
+      "food_rating": 4.4
+    },
+    {
+      "japanese_food_name": "Yakimeshi",
+      "image":"https://images.food52.com/O9rxa80Z0nLah-98RD7tRL3aQqY=/1200x1200/8ee3892c-74ec-4978-915a-0f3cdf72ec84--2021-1203_yakimeshi_3x2_mj-kroeger.jpg",
+      "ingredients": ["cooked rice", "pork", "carrots", "peas", "eggs", "soy sauce", "sake", "salt", "pepper"],
+      "cooking_method": "1. Cut the pork into small pieces and dice the carrots.\n2. In a frying pan, cook the pork and carrots until browned.\n3. Add peas to the pan and cook for a few minutes.\n4. Push the ingredients to the side of the pan and scramble eggs on the empty side.\n5. Add cooked rice to the pan and mix everything together.\n6. Season with soy sauce, sake, salt, and pepper to taste.",
+      "food_rating": 4.2
+    }
+  ]
+  ,
+    "experience": 11,
+    "chef_rating": 4.9
+  },
+  {
+    "id": "6",
+    "chef_name": "Akiko Tanaka",
+    "bio": "Akiko Tanaka is a master of shabu-shabu, a Japanese hot pot dish that involves cooking thinly sliced meat and vegetables in a flavorful broth.",
+    "banner_image": "https://realfood.tesco.com/media/images/1400x919-Fish-Finger-Katsu-Curry-7e4654b8-ed32-43a3-8e32-4693044e6c07-0-1400x919.jpg",
+    "profile_image": "https://t4.ftcdn.net/jpg/02/83/05/81/240_F_283058191_AERlQ4MdvWRcUMUVkhciutBLuqdtx1Oy.jpg",
+    "recipe":[
+      {
+        "japanese_food_name": "Japanese Salmon Curry",
+        "image":"https://img.taste.com.au/wkYVnQcA/taste/2020/03/japanese-salmon-curry-noodle-soup-159077-1.jpg",
+        "ingredients": ["salmon fillet", "curry powder", "potato", "carrot", "onion", "garlic", "ginger", "tomato paste", "chicken broth", "soy sauce", "sugar", "salt", "steamed rice"],
+        "cooking_method": "1. Cut potato and carrot into bite-sized pieces, and slice onion thinly. \n2. Heat oil in a pot and sauté onion, garlic and ginger until fragrant.\n3. Add curry powder and tomato paste and sauté for 1-2 minutes.\n4. Add chicken broth, potato and carrot, and simmer until vegetables are tender.\n5. Add salmon fillet and cook until it flakes easily with a fork.\n6. Season with soy sauce, sugar, and salt.\n7. Serve over steamed rice.",
+        "food_rating": 4.5
+      },
+      {
+        "japanese_food_name": "Japanese Yellowtail Curry",
+        "image":"https://www.justonecookbook.com/wp-content/uploads/2019/12/Yellowtail-Teriyaki-2633-I-500x375.jpg",
+        "ingredients": ["yellowtail fillet", "curry powder", "potato", "carrot", "onion", "garlic", "ginger", "chicken broth", "soy sauce", "sugar", "salt", "steamed rice"],
+        "cooking_method": "1. Cut potato and carrot into bite-sized pieces, and slice onion thinly. \n2. Heat oil in a pot and sauté onion, garlic and ginger until fragrant.\n3. Add curry powder and sauté for 1-2 minutes.\n4. Add chicken broth, potato and carrot, and simmer until vegetables are tender.\n5. Add yellowtail fillet and cook until it flakes easily with a fork.\n6. Season with soy sauce, sugar, and salt.\n7. Serve over steamed rice.",
+        "food_rating": 4.4
+      },
+      {
+        "japanese_food_name": "Japanese Cod Curry",
+        "image":"https://www.eatingwell.com/thmb/Fz8gNrtOW2vsR7ia0e5mY1B10e4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7222763-96528a115ce5407697d8b4c8c5a81b1d.jpg",
+        "ingredients": ["cod fillet", "curry powder", "potato", "carrot", "onion", "garlic", "ginger", "tomato paste", "chicken broth", "soy sauce", "sugar", "salt", "steamed rice"],
+        "cooking_method": "1. Cut potato and carrot into bite-sized pieces, and slice onion thinly. \n2. Heat oil in a pot and sauté onion, garlic and ginger until fragrant.\n3. Add curry powder and tomato paste and sauté for 1-2 minutes.\n4. Add chicken broth, potato and carrot, and simmer until vegetables are tender.\n5. Add cod fillet and cook until it flakes easily with a fork.\n6. Season with soy sauce, sugar, and salt.\n7. Serve over steamed rice.",
+        "food_rating": 4.3
+      }
+    ],    
+    "experience": 13,
+    "chef_rating": 4.6
+  }
+]

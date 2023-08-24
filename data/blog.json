@@ -1,0 +1,19 @@
+[
+    {
+      "title": "Uncontrolled vs Controlled Components in React",
+      "content": "Uncontrolled components in React are those where the component state is managed internally, without the need for the parent component to control it. Controlled components, on the other hand, have their state managed by the parent component through props. The key difference is that uncontrolled components are easier to set up and maintain, but offer less control over the component's behavior, while controlled components offer more control but require more code to set up and maintain."
+    },
+    {
+      "title": "Validating React Props using PropTypes",
+      "content": "PropTypes is a built-in library in React that enables you to validate the type and shape of props passed down to a component. It helps catch errors early on in development and makes debugging easier. You can specify the type of props using the PropTypes library and set default values if props are not provided. For example, you can set a prop to be a string, number, or an array of strings, etc. PropTypes are only used in development mode and are not included in production builds."
+    },
+    {
+      "title": "NodeJS vs ExpressJS",
+      "content": "NodeJS is a runtime environment for executing JavaScript code outside the browser, while ExpressJS is a framework built on top of NodeJS for building web applications. NodeJS provides the ability to execute JavaScript code on the server-side, while ExpressJS simplifies the process of building web applications by providing a set of functions and utilities for handling HTTP requests and responses, managing routes, and more. NodeJS provides the foundation for ExpressJS to build web applications, and ExpressJS provides an easy-to-use and streamlined way of building web applications using NodeJS."
+    },
+    {
+      "title": "Custom Hooks in React",
+      "content": "Custom hooks in React are reusable functions that allow you to extract and share logic between components. They are a way to abstract away common patterns and simplify your code. You can create a custom hook to handle a specific functionality, such as fetching data from an API, managing state, or handling events. Custom hooks follow the naming convention of starting with the word 'use' and can be used in functional components. They are useful when you find yourself repeating the same code across multiple components and want to extract it into a separate function."
+    }
+  ]
+
